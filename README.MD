@@ -1,5 +1,5 @@
-# Site acessível sobre Tropicália
- by Renan ta ligado
+# Site acessível sobre Tropicália Tropical Tropicalesca:
+ by Renan Augusto tá ligado :)
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
@@ -13,4 +13,4 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - HTML
 - CSS
 - JS
-- Vai curinthia
+- Genialidade contemporânea de Renan Augusto
