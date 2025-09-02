@@ -1,4 +1,5 @@
 # Site acessível sobre Tropicália
+ by Renan ta ligado
 # Sobre
 Refatoração de um site implementando recursos de acessibilidade no html, css e JS.
 ## Recursos de acessibilidade
@@ -12,3 +13,4 @@ Refatoração de um site implementando recursos de acessibilidade no html, css e
 - HTML
 - CSS
 - JS
+- Vai curinthia
